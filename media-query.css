@@ -1,0 +1,16 @@
+@media screen and (max-width:440px) {
+    .main{
+        height: 545px;
+        width: 330px;
+    }
+    .card-image{
+        height: 280px;
+        width: 280px;
+    }
+    .content h3{
+        margin-bottom: 20px;
+    }
+    .eth-box{
+        padding: 20px;
+    }
+}
